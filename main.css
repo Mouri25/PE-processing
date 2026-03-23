@@ -1,0 +1,94 @@
+*{
+    background-color: #FFFFFF;
+}
+a  {
+    text-decoration: none;
+    color: orangered;
+}
+
+/* 
+------------------TYPOGRAPHY ---------------------- 
+FONT SIZES
+12px 16px 20px 24px 32px 40px 48px 62px
+
+FONT WEIGHT
+400 | 700
+
+LINE HEIGHTS 
+1.2 | 1.5
+
+LETTER SPACING
+0 | -2px
+
+FONT FAMILY
+Poppins
+
+--------------------COLORS--------------------------
+PRIMARY 
+Base:
+Tint:
+Shade
+
+SECONDARY
+PRIMARY 
+Base:
+Tint:
+Shade
+
+TERTIARY
+PRIMARY 
+Base:
+Tint:
+Shade
+*/
+
+/*------------------- GLOBAL STYLES ------------------*/
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+}
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -2px;
+    color: #212529;
+
+}
+
+
+
+/* ------------------ SECTIONS ------------------------ */
+/* ---------- HERO Section ------------ */
+.hero-section{
+    text-align: center;
+}
+
+/* ---------- FEATURE Section ------------ */
+.feature-main{
+    text-align: center;
+}
+
+/* ---------- CTA Section ------------ */
+.cta-section{
+    text-align: center;
+}
+
+/* ---------- FOOTER ------------ */
+.footer{
+    text-align: center;
+}
+
+ 
+.systems{
+    text-align: center;
+}
+
+.provider-types{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
